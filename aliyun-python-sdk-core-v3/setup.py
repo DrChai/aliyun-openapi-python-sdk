@@ -29,7 +29,7 @@ Created on 6/24/2015
 @author: alex
 """
 PACKAGE = "aliyunsdkcore"
-NAME = "aliyun-python-sdk-core-v3"
+NAME = "aliyunsdkcore"
 DESCRIPTION = "The core module of Aliyun Python3 SDK."
 AUTHOR = "Aliyun"
 AUTHOR_EMAIL = "aliyun-developers-efficiency@list.alibaba-inc.com"
